@@ -1,0 +1,56 @@
+Pilares da O.O.
+
+Abstração
+Encapsulamento
+Herança
+Polimorfismo
+
+---Abstração---
+abstração de complexidade de uma classe
+
+todos os tipos de atributos e métodos de um objeto real para uma classe
+
+algo que identifica do mundo real
+
+definir algo unico para atributos e metodos
+
+é importante saber o que o cliente quer na abstração
+
+
+---Herança---
+
+herança ele herda os atributos e metodos da classe mãe para a classe filha
+
+tudo da mãe a filha pode acessar
+
+
+---Encapsulamento---
+
+é tudo que uma classe consegue acessar da outra classe
+
+public acesso a todo mundo
+
+INTERNAL é acessado apenas dentro do projeto
+
+PROTECTED é apenas transmitodo por heranca
+
+private  apenas na classe
+
+
+
+---polimorfismo---
+
+estatica = é se caso tiver dois métodos com mesmo nome
+
+Dinamico = caso tenha uma herança:   <classe Mãe> nome = new <classe filha>;
+
+					c3 = new <outra filha>
+					
+					
+
+
+pode deixar um objeto filha do tipo da classe mãe
+
+
+
+
